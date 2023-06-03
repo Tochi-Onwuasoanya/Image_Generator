@@ -34,5 +34,5 @@ http://localhost:8000/generate?prompt=your-prompt
 Replace your-prompt with the desired prompt for generating the image.
 You can also provide additional query parameters to customize the image generation process, such as seed, num_inference_steps, and guidance_scale.
 
-4. Stopping the applicationL
+4. Stopping the application:
 Press Ctrl + C to stop the running application.
