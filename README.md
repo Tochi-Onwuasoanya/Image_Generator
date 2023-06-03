@@ -2,7 +2,9 @@
 This is a web application that provides an API for generating images using the StableDiffusion model from the Hugging Face library. It is built using the FastAPI framework.
 
 ## Languages, Tools, and Technologies
-- Python: The programming language used for the development of the application 
+
+### Languages
+- Python (version 3.10): The programming language used for the development of the application 
 
 ### Tools and Technologies
 - FastAPI: A modern web framework used for building APIs with Python. FastAPI provides high-performance capabilities and easy-to-use features for creating web applications.
