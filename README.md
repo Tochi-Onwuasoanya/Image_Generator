@@ -1,5 +1,5 @@
 # Image_Generator
-This is a web application that provides an API for generating images using the StableDiffusion model from the Hugging Face library. Built using the FastAPI framework.
+A Python FastAPI application that generates images based on a user prompt using the StableDiffusionPipeline model from the Hugging Face library. Application has functionality for streaming and saving the generated images.
 
 ## Languages, Tools, and Technologies
 
